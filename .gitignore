@@ -1,0 +1,25 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private participant data
+data/
+
+# Generated predictions
+cycle_model_test_predictions.csv
+
+# OS files
+.DS_Store
